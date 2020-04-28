@@ -12,6 +12,7 @@
 | Forms are generated using vue-generator                                    |        |
 | Forms are validated using vuelidate                                        |        |
 | Styles are abstracted so different styles can be applied                   |        |
+| Use vue-bootstrap                                                          | No     |
 
 
 # Running dev env
