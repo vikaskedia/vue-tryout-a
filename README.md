@@ -1,3 +1,5 @@
+![Home page](./screenshots/home-page.png "Logo Title Text 1")
+
 # Status
 
 |                                 Description                                | Status |
@@ -44,3 +46,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
