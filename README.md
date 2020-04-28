@@ -1,7 +1,7 @@
 # Status
 
 |                                 Description                                | Status |
-|:--------------------------------------------------------------------------:|--------|
+|----------------------------------------------------------------------------|--------|
 | The two components run from different frames                               | No     |
 | Both components share the same data using vuex                             | Yes    |
 | repeated api calls are optimized using vuex-cache                          | Yes    |
