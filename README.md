@@ -4,7 +4,10 @@
 
 |                                 Description                                | Status |
 |----------------------------------------------------------------------------|--------|
-| The two components run from different frames                               | No     |
+| The two components run from different frames chart-on-a-day chart-today    | No     |
+| Each frame can be loaded seperately in browser                             | No     |
+| Each component is in its own repo                                          | No     |
+| Components have version # and can be added/upgraded/removed by enduser     | No     |
 | Both components share the same data using vuex                             | Yes    |
 | repeated api calls are optimized using vuex-cache                          | Yes    |
 | On page reload the api calls are not made again                            | No     |
